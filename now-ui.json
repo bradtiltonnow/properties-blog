@@ -10,16 +10,16 @@
 				"category": "primitives"
 			},
 			"properties": [
-                {
-                    "name": "text",
-                    "label": "Text",
-                    "description": "",
-                    "readOnly": false,
-                    "fieldType": "string",
-                    "required": true,
-                    "defaultValue": "Here is some default text"
-                }
-            ]
+				{
+					"name": "text",
+					"label": "Text",
+					"description": "",
+					"readOnly": false,
+					"fieldType": "string",
+					"required": true,
+					"defaultValue": "Here is some default text"
+				}
+			]
 	    }
 	},
 	"scopeName": "x_85636_btt_prop_2"
