@@ -1,0 +1,26 @@
+{
+	"components": {
+	    "x-85636-properties-blog": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Properties Blog",
+				"icon": "document-outline",
+				"description": "Component used for the UI Builder properties blog",
+				"category": "primitives"
+			},
+			"properties": [
+                {
+                    "name": "text",
+                    "label": "Text",
+                    "description": "",
+                    "readOnly": false,
+                    "fieldType": "string",
+                    "required": true,
+                    "defaultValue": "Here is some default text"
+                }
+            ]
+	    }
+	},
+	"scopeName": "x_85636_btt_prop_2"
+}
